@@ -1,0 +1,13 @@
+D:\Thiago\Projetos\C#\AulaPOOMvc\bin\Debug\netcoreapp3.1\AulaPOOMvc.exe
+D:\Thiago\Projetos\C#\AulaPOOMvc\bin\Debug\netcoreapp3.1\AulaPOOMvc.deps.json
+D:\Thiago\Projetos\C#\AulaPOOMvc\bin\Debug\netcoreapp3.1\AulaPOOMvc.runtimeconfig.json
+D:\Thiago\Projetos\C#\AulaPOOMvc\bin\Debug\netcoreapp3.1\AulaPOOMvc.runtimeconfig.dev.json
+D:\Thiago\Projetos\C#\AulaPOOMvc\bin\Debug\netcoreapp3.1\AulaPOOMvc.dll
+D:\Thiago\Projetos\C#\AulaPOOMvc\bin\Debug\netcoreapp3.1\AulaPOOMvc.pdb
+D:\Thiago\Projetos\C#\AulaPOOMvc\obj\Debug\netcoreapp3.1\AulaPOOMvc.csprojAssemblyReference.cache
+D:\Thiago\Projetos\C#\AulaPOOMvc\obj\Debug\netcoreapp3.1\AulaPOOMvc.csproj.CoreCompileInputs.cache
+D:\Thiago\Projetos\C#\AulaPOOMvc\obj\Debug\netcoreapp3.1\AulaPOOMvc.AssemblyInfoInputs.cache
+D:\Thiago\Projetos\C#\AulaPOOMvc\obj\Debug\netcoreapp3.1\AulaPOOMvc.AssemblyInfo.cs
+D:\Thiago\Projetos\C#\AulaPOOMvc\obj\Debug\netcoreapp3.1\AulaPOOMvc.dll
+D:\Thiago\Projetos\C#\AulaPOOMvc\obj\Debug\netcoreapp3.1\AulaPOOMvc.pdb
+D:\Thiago\Projetos\C#\AulaPOOMvc\obj\Debug\netcoreapp3.1\AulaPOOMvc.genruntimeconfig.cache
